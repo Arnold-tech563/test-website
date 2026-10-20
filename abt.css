@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    color: rgb(80, 34, 2);
+}
+body{
+    background-color: rgb(128, 122, 5);
+    margin-right: 10px;
+    background-image: url(shoes/wave.jpeg);
+}
+.about{
+    background:linear-gradient(to right,skyblue, lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border-radius: 15px;
+    padding: 5px;
+}
+#ontwo{
+    text-align: center;
+    color: rgb(68, 35, 3);
+}
+footer{
+    border-radius: 25px;
+    background-color: rgb(41, 165, 13);
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+.minus{
+    background-color: black;
+    background-image: url(shoes/view.jpeg);
+    border-radius: 20px;
+    padding: 2px;
+}
+.shop{
+    margin-top: 5px;
+    border-radius: 10px;
+    width: 550px;
+    height: 400px;
+    margin-left: 50px;
+}
+.pic{
+    display: flex;      
+    flex-direction: row;
+    align-content: center;
+    gap: 0px;
+}
+.big{
+    border-radius: 10px;
+    margin-top: 5px;
+    height: 400px;
+    width: 800px;
+    margin-left: 230px;
+}
